@@ -180,7 +180,7 @@ function App() {
       {/* marquee end */}
 
       {/* about  */}
-      <div className=" px-5 md:px-20 min-h-screen">
+      <div id="about" className=" px-5 md:px-20 min-h-screen">
         <h1 className=" monoton text-4xl md:text-6xl mt-10 md:mt-20 text-center">
           MEET <span className=" monoton underline">AXY</span>
         </h1>
