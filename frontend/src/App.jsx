@@ -64,7 +64,7 @@ function App() {
               <FaXTwitter className="text-zinc-800 text-2xl" />
             </a>
             <a
-              href="https://letsbonk.fun/2CqTmKmejm6FoYZgKTgiX1gyJQ73u9bTdXTBmq9xbonk"
+              href="https://letsbonk.fun/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
               target="_blank"
             >
               <button className="px-6 md:px-10 bg-main py-1 rounded-lg border border-zinc-800">
@@ -76,7 +76,7 @@ function App() {
           {/* Mobile BUY button */}
           <div className="md:hidden">
             <a
-              href="https://letsbonk.fun/2CqTmKmejm6FoYZgKTgiX1gyJQ73u9bTdXTBmq9xbonk"
+              href="https://letsbonk.fun/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
               target="_blank"
             >
               <button className="px-6 bg-main py-1 rounded-lg border border-zinc-800">
@@ -159,10 +159,10 @@ function App() {
             </p>
             <div className="  w-80 md:w-[575px]  border-2 border-zinc-400 mt-5 pl-5 rounded-full h-12 flex items-center justify-between">
               <p className=" select-all heading text-sm truncate">
-                2CqTmKmejm6FoYZgKTgiX1gyJQ73u9bTdXTBmq9xbonk
+                2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk
               </p>
               <a
-                href="https://letsbonk.fun/2CqTmKmejm6FoYZgKTgiX1gyJQ73u9bTdXTBmq9xbonk"
+                href="https://letsbonk.fun/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
                 target="_blank"
                 className=" px-5 rounded-r-full bg-[#45B9F6] hover:bg-[#3b9ed3] duration-200 h-full flex items-center justify-center"
               >
@@ -206,7 +206,7 @@ function App() {
             </p>
             <div className=" flex items-center gap-3 mt-5">
               <a
-                href="https://letsbonk.fun/2CqTmKmejm6FoYZgKTgiX1gyJQ73u9bTdXTBmq9xbonk"
+                href="https://letsbonk.fun/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
                 target="_blank"
               >
                 <button className=" px-10 bg-[#e3bdd6] shadow-[0px_4px_0px_0px_#9c8193] py-2 rounded-lg ">
