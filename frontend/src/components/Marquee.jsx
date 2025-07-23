@@ -7,12 +7,12 @@ export function Marquee() {
       <InfiniteMovingCards
         items={testimonials}
         direction="right"
-        speed="slow"
+        speed="medium"
       />
       <InfiniteMovingCards
         items={testimonialsTwo}
         direction="left"
-        speed="slow"
+        speed="medium"
       />
     </div>
   );
