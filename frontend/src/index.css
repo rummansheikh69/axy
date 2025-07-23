@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gasoek+One&family=Monoton&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.monoton {
+  font-family: "Monoton", sans-serif;
+}
+
+.heading {
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.hero {
+  font-family: "Gasoek One", sans-serif;
+}
+
+.text-stroke {
+  -webkit-text-stroke: 2px #e3bdd6;
+  color: transparent;
+}
