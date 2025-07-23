@@ -153,7 +153,7 @@ function App() {
               </span>
             </h1>
             <p className=" w-80 md:w-[670px] mt-2 text-zinc-300 text-center md:text-base text-xs">
-              FASTFOODFELLAZ WERE INSPIRED BY THE DEADFELLAZ COLLECTION TO
+              AXY WERE INSPIRED BY THE DEADFELLAZ COLLECTION TO
               CREATE THE STRONGEST COMMUNITY POSSIBLE BY UNITING MORE TALENTED
               ARTISTS AND INFLUENCERS.
             </p>
