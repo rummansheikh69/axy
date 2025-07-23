@@ -23,7 +23,7 @@ export function HowToBuy() {
     },
   ];
   return (
-    <div className="relative overflow-hidden w-full py-20 bg-gradient-to-b from-main via-black/5 to-subMain/30">
+    <div id="howtobuy" className="relative overflow-hidden w-full py-20 bg-gradient-to-b from-main via-black/5 to-subMain/30">
       <h1 className=" monoton text-4xl md:text-6xl mb-10 text-center">
         HOW TO <span className=" monoton underline">BUY</span>
       </h1>
