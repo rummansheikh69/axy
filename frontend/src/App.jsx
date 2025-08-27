@@ -68,7 +68,7 @@ function App() {
               target="_blank"
             >
               <button className="px-6 md:px-10 bg-main py-1 rounded-lg border border-zinc-800">
-                <p className="heading text-[#45B9F6]">BUY $AXY</p>
+                <p className="heading text-[#45B9F6]">BUY $NPM</p>
               </button>
             </a>
           </div>
@@ -80,7 +80,7 @@ function App() {
               target="_blank"
             >
               <button className="px-6 bg-main py-1 rounded-lg border border-zinc-800">
-                <p className="heading text-[#45B9F6]">BUY $AXY</p>
+                <p className="heading text-[#45B9F6]">BUY $NPM</p>
               </button>
             </a>
           </div>
@@ -153,7 +153,7 @@ function App() {
               </span>
             </h1>
             <p className=" w-80 md:w-[670px] mt-2 text-zinc-300 text-center md:text-base text-xs">
-              AXY WERE INSPIRED BY THE OCEAN TO
+              NPM WERE INSPIRED BY THE OCEAN TO
               CREATE THE STRONGEST COMMUNITY POSSIBLE BY UNITING MORE TALENTED
               ARTISTS AND INFLUENCERS.
             </p>
@@ -182,7 +182,7 @@ function App() {
       {/* about  */}
       <div id="about" className=" px-5 md:px-20 min-h-screen">
         <h1 className=" monoton text-4xl md:text-6xl mt-10 md:mt-20 text-center">
-          MEET <span className=" monoton underline">AXY</span>
+          MEET <span className=" monoton underline">NPM</span>
         </h1>
         <div className=" mt-10 flex gap-5 flex-col-reverse md:flex-row items-center md:gap-10">
           <div className=" w-full h-96">
@@ -194,14 +194,14 @@ function App() {
           </div>
           <div className=" w-full">
             <p className=" heading leading-7 tracking-wide">
-              Axy began as a wide-eyed sea meme drifting through the internet's
+              NPM began as a wide-eyed sea meme drifting through the internet's
               weirdest currents — cute, clueless, and deeply unbothered. But
               beneath that bubbly exterior lies a cold-blooded crypto killer. By
-              day, it’s the face of meme culture, but by night, Axy glides
+              day, it’s the face of meme culture, but by night, NPM glides
               through the Solana network like a ghost — flipping tokens,
               draining pools, and vanishing without a ripple. Misjudged for its
-              charm, Axy isn’t just a meme — it’s a deep-sea degenerate with
-              instincts sharper than any shark. Welcome to Axy: the silent
+              charm, NPM isn’t just a meme — it’s a deep-sea degenerate with
+              instincts sharper than any shark. Welcome to NPM: the silent
               assassin of Solana.
             </p>
             <div className=" flex items-center gap-3 mt-5">
@@ -210,7 +210,7 @@ function App() {
                 target="_blank"
               >
                 <button className=" px-10 bg-[#e3bdd6] shadow-[0px_4px_0px_0px_#9c8193] py-2 rounded-lg ">
-                  <p className=" heading text-black/70">BUY $AXY</p>
+                  <p className=" heading text-black/70">BUY $NPM</p>
                 </button>
               </a>
               <a
@@ -250,7 +250,7 @@ function App() {
             </a>
           </div>
           <p className=" text-2xl monoton">
-            © {new Date().getFullYear()} Axysolana
+            © {new Date().getFullYear()} Npmsolana
           </p>
         </div>
       </div>
