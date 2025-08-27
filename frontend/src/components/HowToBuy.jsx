@@ -17,8 +17,8 @@ export function HowToBuy() {
       src: "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753258280/IMG_3389_lnyiry.webp",
     },
     {
-      title: "SWAP $AXY",
-      desc: "Swap the SOL you have in your wallet for $AXY",
+      title: "SWAP $NPM",
+      desc: "Swap the SOL you have in your wallet for $NPM",
       src: "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753258281/IMG_3398_ehgq4q.webp",
     },
   ];
